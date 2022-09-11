@@ -1,0 +1,46 @@
+* {
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAF7FD;
+    color: #BB99DD;
+    text-align: center;
+}
+
+#container {
+    margin: 2% 50% 0 30%;
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+#insta {
+    padding: 6%;
+    border: 2px solid;
+    margin-top: 10px;
+}
+
+#linke {
+    padding: 6%;
+    border: 2px solid;
+    margin-top: 10px;
+}
+
+#gith {
+    padding: 6%;
+    border: 2px solid;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#icon_insta {
+    margin-right: 20px;
+}
+
+#icon_linke {
+    margin-right: 20px;
+}
+
+footer{
+    margin: 2% 50% 0 30%;
+}
